@@ -5,4 +5,9 @@ I wanted to create something unique, in that it shows a bit about me and my huma
 
 ## Mockup
 To start out I created a mock up of how I envisioned this to turn out
-[PDF wireframe](./assets/misc/newPortfolio_specifications-converted.pdf)
+
+![Long photo of wireframe](./assets/misc/wireframe.png)
+
+These are screens of the project section on mouse hover and when a user highlights something in the nav bar
+
+![Nav bar interaction and project interaction](./assets/misc/detail.png)
